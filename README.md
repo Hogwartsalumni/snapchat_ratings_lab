@@ -10,6 +10,8 @@ You the creator of snapchat. To make sure you have accurate feedback about your 
 - If the user did not put a rating between 1-5 then give an Error sign. 
 - Make sure to thank the user for rating snapchat! 
 
+HINT
+- remember to use .to_i
 
 BONUS
 - Use methods AND conditionals to create the app. 
